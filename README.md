@@ -4,13 +4,13 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Basel%20Ziada&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Cloud%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Data%20Analytics%20%7C%20Intelligent%20Applications&descAlignY=58&descAlign=50)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=90&lines=Hi%2C+I'm+Basel+Ziada+%F0%9F%91%8B;Cloud+AI+Engineer;Computer+Vision+%7C+Data+Analytics+%7C+AI+in+Healthcare" alt="Basel Ziada Header" />
 
 </div>
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=950&height=90&lines=Building+AI-Powered+Solutions+for+Real-World+Impact;Computer+Vision+%7C+Cloud+AI+%7C+Data+Analytics;Turning+Research+Ideas+into+Practical+Systems;Learning%2C+Building%2C+Leading%2C+and+Innovating)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=800&color=FFFFFF&center=true&vCenter=true&width=950&height=70&lines=Building+AI-Powered+Solutions+for+Real-World+Impact;Turning+Research+Ideas+into+Practical+Systems;Learning+%7C+Building+%7C+Leading+%7C+Innovating" alt="Typing SVG" />
 
 </div>
 
@@ -27,17 +27,22 @@
   <img src="https://komarev.com/ghpvc/?username=baselziada&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-0D1117?style=for-the-badge&logo=openai&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8" />
+  <img src="https://img.shields.io/badge/Cloud%20AI-0D1117?style=for-the-badge&logo=icloud&logoColor=00D9FF" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-0D1117?style=for-the-badge&logo=plotly&logoColor=00D9FF" />
+</p>
+
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+## 🔥 About Me
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
-
-<img align="right" alt="AI Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="AI Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```typescript
 const BaselZiada = {
-    title: "AI & Cloud AI Engineer",
+    title: "Cloud AI Engineer",
     location: "Cairo, Egypt 🇪🇬",
     focus: "Building intelligent, scalable, and data-driven systems",
 
@@ -84,13 +89,7 @@ AI and Cloud AI Engineer with hands-on project experience designing and developi
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 🏆 Achievements & Recognition
-
-<div align="center">
-  <img src="https://img.icons8.com/fluency/260/trophy.png" width="150" alt="Trophy"/>
-</div>
 
 <table>
 <tr>
@@ -134,8 +133,6 @@ AI and Cloud AI Engineer with hands-on project experience designing and developi
 </table>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -230,8 +227,6 @@ Research work on AI-driven CO₂ monitoring and carbon footprint quantification 
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 🛠️ Tech Arsenal
 
 <details open>
@@ -315,8 +310,6 @@ Research work on AI-driven CO₂ monitoring and carbon footprint quantification 
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 📚 Research & Technical Interests
 
 <table>
@@ -365,8 +358,6 @@ Dashboards, insights, model evaluation, and data-informed decisions.
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 ## 🌍 Leadership & Community Impact
 
 <table>
@@ -389,8 +380,6 @@ Dashboards, insights, model evaluation, and data-informed decisions.
 </table>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -421,8 +410,6 @@ Dashboards, insights, model evaluation, and data-informed decisions.
 </div>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -474,7 +461,5 @@ Developing scalable, reliable, and data-driven AI systems.
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45" />
 
 **“Building AI is not only about models — it is about solving meaningful problems.”**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer)
 
 </div>
