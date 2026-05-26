@@ -1,91 +1,70 @@
-# Hi, I'm Basel Ziada 👋
+<!-- ==========================================================
+     Basel Ziada — GitHub Profile README
+========================================================== -->
 
-## AI & Cloud AI Engineer | Computer Vision | Data Analytics | Intelligent Applications
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Basel%20Ziada&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Cloud%20AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Data%20Analytics&descAlignY=58&descAlign=50" />
+</div>
 
-I am an Artificial Intelligence specialist focused on building intelligent, scalable, and data-driven solutions that solve real-world problems. My work spans AI-powered applications, computer vision systems, data analytics, cloud-based solutions, and product-oriented problem solving.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=900&height=80&lines=Building+Intelligent+AI-Powered+Solutions;Turning+Data+Into+Real-World+Impact;Computer+Vision+%7C+Cloud+AI+%7C+Generative+AI;Research-Driven+%7C+Product-Oriented+%7C+Impact-Focused" alt="Typing SVG" />
+</div>
 
-I enjoy turning ideas into practical systems, combining strong technical foundations with leadership, teamwork, and continuous learning.
-
----
-
-## 🚀 About Me
-
-- AI and Cloud AI Engineer with hands-on project experience
-- Interested in Computer Vision, Generative AI, Data Analytics, and Cloud AI
-- Experienced in building intelligent applications across healthcare, education, accessibility, finance, and sustainability
-- Strong background in technical leadership, student communities, and innovation competitions
-- Passionate about solving real-world problems using AI and modern technologies
-
----
-
-## 🛠️ Technical Skills
-
-**Programming Languages:**  
-Python, C/C++, SQL
-
-**AI & Machine Learning:**  
-Machine Learning, Deep Learning, NLP, Computer Vision, Generative AI
-
-**Frameworks & Libraries:**  
-TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, YOLO, Hugging Face Transformers
-
-**Cloud & Tools:**  
-AWS, Huawei Cloud, Docker, Git, GitHub, VS Code, Jupyter Notebook, Microsoft SQL Server
-
-**Other Skills:**  
-Data Analysis, Visualization, Model Evaluation, Research, Problem Solving, Technical Documentation
+<p align="center">
+  <a href="https://www.linkedin.com/in/basel-ziada/">
+    <img src="https://img.shields.io/badge/LinkedIn-Basel%20Ziada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:basilziada62@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/baselziada">
+    <img src="https://img.shields.io/badge/GitHub-baselziada-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=baselziada&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 🔹 EVANA – AI-Integrated Surgical Assistance System
-AI-powered robotic arm system using computer vision for real-time surgical tool detection, designed to support surgical workflow efficiency, precision, and contamination control.
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-### 🔹 Face Attendance System
-Real-time attendance system using face recognition, OpenCV, and Python with user registration, data logging, and anti-spoofing support.
+<img align="right" alt="AI Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 🔹 Sign Language Recognition
-Computer vision system for real-time hand gesture recognition using OpenCV, MediaPipe, and deep learning to support accessibility.
+```typescript
+const BaselZiada = {
+    title: "AI & Cloud AI Engineer",
+    location: "Cairo, Egypt 🇪🇬",
+    focus: "Building intelligent, scalable, and data-driven systems",
 
-### 🔹 AI-Powered Mobile Applications
-Developed multiple AI-based mobile app concepts across finance, education, language learning, and accessibility.
+    coreInterests: [
+        "Artificial Intelligence",
+        "Computer Vision",
+        "Generative AI",
+        "Data Analytics",
+        "Cloud AI",
+        "AI in Healthcare"
+    ],
 
----
+    mission: {
+        build: "AI-powered applications that solve real problems",
+        connect: "Research, software engineering, and product impact",
+        grow: "From strong technical ideas to practical deployed systems"
+    },
 
-## 🏆 Achievements
+    strengths: [
+        "Problem Solving",
+        "Technical Leadership",
+        "Research Mindset",
+        "Team Collaboration",
+        "Product-Oriented Thinking"
+    ],
 
-- 1st Place in North Africa and 2nd Place Worldwide at Huawei ICT Innovation Competition Final 2025
-- Platinum Medal in Huawei ICT Competition – Cloud Track
-- 1st Place in Smart Education Hackathon Banha
-- Gold and Silver medals in Huawei ICT Academy Competitions
-- Active leader and ambassador in technical student communities
-
----
-
-## 📚 Research Interests
-
-- AI in Healthcare
-- Medical Imaging and Deep Learning
-- Sustainable AI
-- IoT and AI-driven monitoring systems
-- Generative AI and AI Agents
-- Cloud AI and scalable intelligent systems
-
----
-
-## 🌱 Currently Learning
-
-- LLM-powered applications
-- RAG systems
-- AI Agents
-- MLOps and model deployment
-- Cloud-native AI solutions
-
----
-
-## 🤝 Let's Connect
-
-- LinkedIn: [linkedin.com/in/basel-ziada](https://www.linkedin.com/in/basel-ziada/)
-- GitHub: [github.com/baselziada](https://github.com/baselziada)
-- Email: basilziada62@gmail.com
+    currentlyExploring: [
+        "LLM Applications",
+        "RAG Systems",
+        "AI Agents",
+        "MLOps",
+        "Cloud-Native AI"
+    ]
+};
