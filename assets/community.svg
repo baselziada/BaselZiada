@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 232" role="img" aria-label="Community leadership roles">
+  <defs><linearGradient id="ga" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="640" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#22d3ee"/><stop offset=".33" stop-color="#818cf8"/><stop offset=".66" stop-color="#e879f9"/><stop offset="1" stop-color="#22d3ee"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="640 0" dur="5s" repeatCount="indefinite"/></linearGradient><radialGradient id="o0"><stop offset="0" stop-color="#06b6d4" stop-opacity=".4"/><stop offset="1" stop-color="#06b6d4" stop-opacity="0"/></radialGradient><radialGradient id="o1"><stop offset="0" stop-color="#7c3aed" stop-opacity=".5"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#fff" fill-opacity=".07"/></pattern>
+    <clipPath id="card"><rect width="1200" height="232" rx="18"/></clipPath>
+  </defs>
+  <style>.rise{animation:rise .6s ease-out backwards}@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}.bar{transform-box:fill-box;transform-origin:center;animation:grow .7s cubic-bezier(.2,.8,.2,1) backwards, breathe 3s ease-in-out 1.6s infinite}@keyframes grow{from{transform:scaleX(0)}to{transform:scaleX(1)}}@keyframes breathe{50%{transform:scaleX(.45)}}.ants{animation:ants 1.6s linear infinite}@keyframes ants{to{stroke-dashoffset:-20}}@media (prefers-reduced-motion:reduce){*{animation:none!important}.nomo{display:none}}</style>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="232" fill="#070910"/><circle cx="140" cy="208.8" r="240" fill="url(#o0)"><animate attributeName="cx" values="140;230;140" dur="12s" repeatCount="indefinite"/></circle><circle cx="1060" cy="46.4" r="240" fill="url(#o1)"><animate attributeName="cx" values="1060;970;1060" dur="14s" repeatCount="indefinite"/></circle>
+    <rect width="1200" height="232" fill="url(#dots)"/>
+    <g text-anchor="middle"><g class="rise" style="animation-delay:0.25s">
+        <text x="152" y="86" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="url(#ga)">10+</text>
+        <text x="152" y="112" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#64748b">events run</text></g>
+      <rect x="118" y="128" width="68" height="3" rx="1.5" fill="url(#ga)" class="bar" style="animation-delay:0.55s"/>
+      <g class="rise" style="animation-delay:0.6s"><text x="152" y="168" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#fff">GDG Leader</text>
+        <text x="152" y="192" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#a5b4fc">Google Developer Groups</text></g></g><line x1="264" x2="264" y1="44" y2="188" stroke="#2a2f4a" stroke-dasharray="3 7" class="ants"/><g text-anchor="middle"><g class="rise" style="animation-delay:0.47s">
+        <text x="376" y="86" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="url(#ga)">10+</text>
+        <text x="376" y="112" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#64748b">events run</text></g>
+      <rect x="342" y="128" width="68" height="3" rx="1.5" fill="url(#ga)" class="bar" style="animation-delay:0.77s"/>
+      <g class="rise" style="animation-delay:0.82s"><text x="376" y="168" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#fff">Student Ambassador</text>
+        <text x="376" y="192" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#a5b4fc">Microsoft Learn</text></g></g><line x1="488" x2="488" y1="44" y2="188" stroke="#2a2f4a" stroke-dasharray="3 7" class="ants"/><g text-anchor="middle"><g class="rise" style="animation-delay:0.69s">
+        <text x="600" y="86" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="url(#ga)">30+</text>
+        <text x="600" y="112" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#64748b">startup teams</text></g>
+      <rect x="566" y="128" width="68" height="3" rx="1.5" fill="url(#ga)" class="bar" style="animation-delay:0.99s"/>
+      <g class="rise" style="animation-delay:1.04s"><text x="600" y="168" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#fff">Campus Director</text>
+        <text x="600" y="192" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#a5b4fc">Hult Prize</text></g></g><line x1="712" x2="712" y1="44" y2="188" stroke="#2a2f4a" stroke-dasharray="3 7" class="ants"/><g text-anchor="middle"><g class="rise" style="animation-delay:0.91s">
+        <text x="824" y="86" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="url(#ga)">300+</text>
+        <text x="824" y="112" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#64748b">students trained</text></g>
+      <rect x="790" y="128" width="68" height="3" rx="1.5" fill="url(#ga)" class="bar" style="animation-delay:1.21s"/>
+      <g class="rise" style="animation-delay:1.26s"><text x="824" y="168" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#fff">Cloud Ambassador</text>
+        <text x="824" y="192" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#a5b4fc">Huawei Cloud</text></g></g><line x1="936" x2="936" y1="44" y2="188" stroke="#2a2f4a" stroke-dasharray="3 7" class="ants"/><g text-anchor="middle"><g class="rise" style="animation-delay:1.13s">
+        <text x="1048" y="86" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="url(#ga)">300+</text>
+        <text x="1048" y="112" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14.5" fill="#64748b">students reached</text></g>
+      <rect x="1014" y="128" width="68" height="3" rx="1.5" fill="url(#ga)" class="bar" style="animation-delay:1.43s"/>
+      <g class="rise" style="animation-delay:1.48s"><text x="1048" y="168" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#fff">Academy Ambassador</text>
+        <text x="1048" y="192" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#a5b4fc">Huawei ICT Academy</text></g></g>
+  </g>
+  <rect x="1" y="1" width="1198" height="230" rx="18" fill="none" stroke="url(#ga)" stroke-width="2"/>
+</svg>
